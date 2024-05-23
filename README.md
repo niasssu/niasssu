@@ -1,10 +1,7 @@
-- Names:
-  niassu, niā
-- Interests:
-  art, programming, games, language, music
-- I’m learning a little bit of Javascript
-- Contact:
-  email = niassu@protonmail.com
+- Name: niassu, niā
+- Interests: art, programming, games, language, music
+- Learning: a little bit of everything
+- Contact: email = niassu@protonmail.com
 - Pronouns: any
 
 <!---

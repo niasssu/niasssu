@@ -1,11 +1,18 @@
-- Name: niasssu or niā <sup>(case-sensitive)</sup>
-- Interests: art, programming, games, language, music
-- Languages: English
-- Can program in: HTML, CSS, JavaScript, BASH
-- Learning: a little bit of everything
-- Contact: email = niassu@protonmail.com
-- Pronouns: any/all
+|name           |prox|
+|----           |----|
+|yan            |    |
+|/nia(s{1,3}u)?/|    |
+|ayra           |[]  |
+|euio           |()  |
+|ria            |{}  |
+|zata           |//  |
+|resa           |#   |
+|swita          |s:  |
+|aru            |@:  |
+|/nume(lukon)?/ |?:  |
+|               |d:  |
+- pronouns = any/all
+- nativeLanguage = English
+- eMail = nyarusi@disroot.org
 
-> learned about codespaces and probably need to use them more
-> 
-> le github est du [bread].
+> 真実の人々のみんなはAIを嫌い.

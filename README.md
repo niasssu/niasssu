@@ -11,8 +11,4 @@
 |aru            |@:  |
 |/nume(lukon)?/ |?:  |
 |               |d:  |
-- pronouns = any/all
-- nativeLanguage = English
-- eMail = nyarusi@disroot.org
-
-> 真実の人々のみんなはAIを嫌い.
+- eMail = nia@numelukon.blog
